@@ -55,6 +55,19 @@ Your intelligent daily carbon footprint tracker built for the real world.
 - [Node.js](https://nodejs.org/) (v18+ recommended)
 - npm or yarn
 
+### 💡 Usage Guide
+1). Input your daily data:
+  -  🚗 Distance driven (km)
+  -  ⚡ Electricity used (kWh)
+  -  🍖 Meat consumed (grams)
+  -  🧴 Plastic items used
+
+2). View your carbon footprint total and pie chart breakdown
+
+3). Read personalized suggestions and environmental facts
+
+4). Reset or update values anytime
+
 ### ⚙️ Local Installation
 
 ```bash
@@ -62,20 +75,3 @@ git clone https://github.com/yugankfatehpuria4/CarbonTrackr.git
 cd CarbonTrackr
 npm install
 npm run dev
-
-💡 Usage Guide
-Input your daily data:
-
-🚗 Distance driven (km)
-
-⚡ Electricity used (kWh)
-
-🍖 Meat consumed (grams)
-
-🧴 Plastic items used
-
-View your carbon footprint total and pie chart breakdown
-
-Read personalized suggestions and environmental facts
-
-Reset or update values anytime
