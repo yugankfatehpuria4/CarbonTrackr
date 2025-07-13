@@ -55,6 +55,16 @@ Your intelligent daily carbon footprint tracker built for the real world.
 - [Node.js](https://nodejs.org/) (v18+ recommended)
 - npm or yarn
 
+
+### ⚙️ Local Installation
+
+```bash
+git clone https://github.com/yugankfatehpuria4/CarbonTrackr.git
+cd CarbonTrackr
+npm install
+npm run dev
+```
+---
 ### 💡 Usage Guide
 1). Input your daily data:
   -  🚗 Distance driven (km)
@@ -68,10 +78,38 @@ Your intelligent daily carbon footprint tracker built for the real world.
 
 4). Reset or update values anytime
 
-### ⚙️ Local Installation
+---
 
+### 📁 Folder Structure
 ```bash
-git clone https://github.com/yugankfatehpuria4/CarbonTrackr.git
-cd CarbonTrackr
-npm install
-npm run dev
+CarbonTrackr/
+├── public/              # Static assets
+├── src/
+│   ├── components/      # Form, ResultsDisplay, PieChart, Suggestions, Footer
+│   ├── types/           # TypeScript definitions
+│   ├── utils/           # CO₂ calculation logic
+│   ├── App.tsx          # Main app component
+│   └── main.tsx         # App entry point
+├── tailwind.config.js   # Tailwind setup
+├── vite.config.ts       # Vite build config
+├── netlify.toml         # Netlify SPA config
+└── README.md
+```
+
+---
+###🗺️ Future Roadmap
+-> ✅ Weekly streak tracker
+-> ✅ GPT-powered smart recommendations
+-> 📨 Weekly email summaries
+-> ☁️ Cloud data storage with MongoDB + Clerk
+-> 📲 PWA for offline tracking
+
+---
+### 🤝 Author
+Built with 💚 by Yugank Fatehpuria
+Icons by Lucide
+Deployed via Netlify
+
+
+
+
