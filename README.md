@@ -44,7 +44,7 @@ Your intelligent daily carbon footprint tracker built for the real world.
 
 | Dashboard Input | Emissions Breakdown | Eco Tips |
 |-----------------|---------------------|----------|
-| ![](public/dashboard.png) | ![](public/results.png) | ![](public/tips.png) |
+| ![](public/dashboard.png) | ![](public/tips.png)  | ![](public/tips.png) |
 
 ---
 
