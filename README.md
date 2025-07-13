@@ -109,9 +109,9 @@ CarbonTrackr/
 
 ### 🤝 Author
 
--- Built with 💚 by Yugank Fatehpuria
--- Icons by Lucide
--- Deployed via Netlify
+~ Built with 💚 by Yugank Fatehpuria
+~ Icons by Lucide
+~ Deployed via Netlify
 
 
 
