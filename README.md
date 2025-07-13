@@ -97,18 +97,21 @@ CarbonTrackr/
 ```
 
 ---
-###🗺️ Future Roadmap
--> ✅ Weekly streak tracker
--> ✅ GPT-powered smart recommendations
--> 📨 Weekly email summaries
--> ☁️ Cloud data storage with MongoDB + Clerk
--> 📲 PWA for offline tracking
+
+## 🗺️ Future Roadmap
+ - ✅ Weekly streak tracker
+ - ✅ GPT-powered smart recommendations
+ - 📨 Weekly email summaries
+ - ☁️ Cloud data storage with MongoDB + Clerk
+ - 📲 PWA for offline tracking
 
 ---
+
 ### 🤝 Author
-Built with 💚 by Yugank Fatehpuria
-Icons by Lucide
-Deployed via Netlify
+
+-- Built with 💚 by Yugank Fatehpuria
+-- Icons by Lucide
+-- Deployed via Netlify
 
 
 
