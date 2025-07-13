@@ -110,8 +110,8 @@ CarbonTrackr/
 ### 🤝 Author
 
 ~ Built with 💚 by Yugank Fatehpuria
-~ Icons by Lucide
-~ Deployed via Netlify
+- Icons by Lucide
+- Deployed via Netlify
 
 
 
