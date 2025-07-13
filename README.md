@@ -62,3 +62,20 @@ git clone https://github.com/yugankfatehpuria4/CarbonTrackr.git
 cd CarbonTrackr
 npm install
 npm run dev
+
+💡 Usage Guide
+Input your daily data:
+
+🚗 Distance driven (km)
+
+⚡ Electricity used (kWh)
+
+🍖 Meat consumed (grams)
+
+🧴 Plastic items used
+
+View your carbon footprint total and pie chart breakdown
+
+Read personalized suggestions and environmental facts
+
+Reset or update values anytime
