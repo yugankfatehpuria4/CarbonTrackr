@@ -3,12 +3,6 @@
 > **Track. Understand. Reduce.**
 > Your intelligent daily carbon footprint tracker built for the real world.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e854b726-2a4b-4c28-98e8-6e54293f0b09/deploy-status)](https://app.netlify.com/sites/carbontrackr/deploys)
-![GitHub license](https://img.shields.io/github/license/yugankfatehpuria4/CarbonTrackr)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-
 <br>
 
 🔗 **Live Demo:** [https://carbontrackr.netlify.app](https://carbontrackr.netlify.app)  
