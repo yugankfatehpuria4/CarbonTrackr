@@ -81,7 +81,7 @@ npm run dev
 ---
 
 ## 📁 Folder Structure
-
+```
 CarbonTrackr/
 ├── public/ # Static assets
 ├── src/
@@ -94,7 +94,7 @@ CarbonTrackr/
 ├── vite.config.ts # Vite build config
 ├── netlify.toml # Netlify SPA config
 └── README.md
-
+```
 ---
 
 ## 🗺️ Future Roadmap
