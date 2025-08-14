@@ -62,6 +62,7 @@ git clone [https://github.com/yugankfatehpuria4/CarbonTrackr.git](https://github
 cd CarbonTrackr
 npm install
 npm run dev
+```
 
 ## 💡 Usage Guide
 
@@ -93,10 +94,6 @@ CarbonTrackr/
 ├── vite.config.ts # Vite build config
 ├── netlify.toml # Netlify SPA config
 └── README.md
-
-yaml
-Copy
-Edit
 
 ---
 
